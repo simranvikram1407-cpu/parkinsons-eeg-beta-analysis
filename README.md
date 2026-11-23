@@ -134,7 +134,7 @@ The 150 µV screening flags were retained for quality-control reporting and were
 
 ## 8. Repository Structure
 
-
+```text
 parkinsons-eeg-beta-analysis/
 │
 ├── README.md
@@ -148,7 +148,7 @@ parkinsons-eeg-beta-analysis/
 │
 ├── whole_scalp_relative_beta_percent_plot.png
 └── C3_C4_relative_beta_percent_plot.png
-
+```
 
 ## 9. Tools and Technologies
 
