@@ -103,11 +103,10 @@ These findings do not establish equivalence between groups or demonstrate the ab
 
 ### Whole-scalp relative beta power
 
-![Whole-scalp relative beta power](figures/whole_scalp_relative_beta_percent_plot.png)
-
+![Whole-scalp relative beta power](whole_scalp_relative_beta_percent_plot.png)
 ### C3/C4 relative beta power
 
-![C3/C4 relative beta power](figures/C3_C4_relative_beta_percent_plot.png)
+![C3/C4 relative beta power](C3_C4_relative_beta_percent_plot.png)
 
 ## 6. Quality Control
 
