@@ -1,0 +1,5 @@
+measure,comparison,test,statistic,p_value,n_1,n_2,holm_adjusted_p,significant_after_holm
+whole_scalp_relative_beta_percent,Control vs PD_OFF,Mann-Whitney U,129.0,0.7368768981757916,16,15,1.0,False
+whole_scalp_relative_beta_percent,PD_ON vs PD_OFF,Wilcoxon signed-rank,58.0,0.93408203125,15,15,1.0,False
+C3_C4_relative_beta_percent,Control vs PD_OFF,Mann-Whitney U,128.0,0.766876114108925,16,15,1.0,False
+C3_C4_relative_beta_percent,PD_ON vs PD_OFF,Wilcoxon signed-rank,48.0,0.52447509765625,15,15,1.0,False
