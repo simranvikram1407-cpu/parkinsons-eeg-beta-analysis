@@ -108,6 +108,14 @@ These findings do not establish equivalence between groups or demonstrate the ab
 
 ![C3/C4 relative beta power](C3_C4_relative_beta_percent_plot.png)
 
+## Power Spectral Density Analysis
+
+### Group-average PSD (1–45 Hz)
+![Group-average PSD](group_average_PSD_1_45Hz.png)
+
+### Beta-band PSD (13–30 Hz)
+![Beta-band PSD](beta_band_PSD_13_30Hz.png)
+
 ## 6. Quality Control
 
 Signal-quality screening was conducted across all 46 recordings.
